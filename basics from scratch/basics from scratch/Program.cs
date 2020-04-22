@@ -10,21 +10,16 @@ namespace basics_from_scratch
     {
         static void Main(string[] args)
         {
-            int UserAge = Convert.ToInt32(Console.ReadLine());
-            switch(UserAge)
-            {
-                case 12:
-                    Console.WriteLine("Too young");
-                    break;
+            string UserSex = Console.ReadLine();
+            string UserName = Console.ReadLine();
 
-                case 16:
-                    Console.WriteLine("Nice");
-                    break;
-                default:
-                    Console.WriteLine("Hmmmm");
-                    break;
-            }
+            UserName = (UserSex == "Male" ? "Mr" : "Mrs") + UserName;
+
+            Console.WriteLine(UserName);
+
             Console.WriteLine("Goodbay");
+
+            Console.ReadKey();
         }
     }
 }
