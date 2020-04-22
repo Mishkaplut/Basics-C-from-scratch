@@ -1,0 +1,7 @@
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\bin\Debug\basics from scratch.exe.config
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\bin\Debug\basics from scratch.exe
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\bin\Debug\basics from scratch.pdb
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\obj\Debug\basics from scratch.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\obj\Debug\basics from scratch.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\obj\Debug\basics from scratch.exe
+C:\Users\Руслан\source\repos\Basics-C-from-scratch\basics from scratch\basics from scratch\obj\Debug\basics from scratch.pdb
